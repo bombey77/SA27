@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SA27</string>
+    <string name="btnTime">Time</string>
+    <string name="btnDate">Date</string>
+</resources>
